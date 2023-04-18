@@ -6,4 +6,7 @@ As the internet and social media continue to grow, having a positive online pres
 	This machine learning application aligns with Manok Airlines’ business needs by transforming its online presence. By increasing the positive digital presence of the company, more customers will be drawn to the company to become future passengers which in turn will increase Manok Airlines’ revenue. 
 
 #### Application Description
-	To address the problem, we start with a data set of previous passenger data. We then use the machine learning application and data set to teach the algorithm to predict whether or not a passenger will be satisfied. The application will be using supervised learning and more specifically  logistic regression to get the classification of the passenger’s satisfaction status. This classification is then used to alert customer service personnel if the predicted outcome is of a negative one. 
+	To address the problem, we start with a data set of previous passenger data. We then use the machine learning application and data set to teach the algorithm to
+predict whether or not a passenger will be satisfied. The application will be using supervised learning and more specifically  logistic regression to get the 
+classification of the passenger’s satisfaction status. This classification is then used to alert customer service personnel if the predicted outcome is of a negative 
+one. 
